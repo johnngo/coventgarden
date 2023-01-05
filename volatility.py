@@ -1,8 +1,5 @@
 # =============================================================================
-# Measuring the volatility of a buy and hold strategy
-# Author : Mayank Rasu (http://rasuquant.com/wp/)
-
-# Please report bug/issues in the Q&A section
+#annualize volatility
 # =============================================================================
 
 # Import necesary libraries
